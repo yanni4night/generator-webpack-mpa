@@ -1,0 +1,31 @@
+{
+  "name": "generator-webpack-mpa",
+  "version": "0.1.0",
+  "description": "Webpack for Multiple Pages App",
+  "author": {
+    "name": "Yanni Nightingale",
+    "email": "yanni4night@gmail.com",
+    "url": "http://yanni4night.com"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "webpack",
+    "generator",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "deep-extend": "^0.4.1",
+    "generator-node": "^1.12.1",
+    "yeoman-generator": "^0.23.0",
+    "yosay": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanni4night/generator-webpack-mpa.git"
+  },
+  "license": "MIT"
+}
